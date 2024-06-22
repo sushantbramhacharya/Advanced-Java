@@ -1,3 +1,5 @@
+package SwingCodes;
+
 import java.awt.*;
 import javax.swing.*;
 

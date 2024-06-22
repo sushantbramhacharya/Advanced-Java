@@ -1,3 +1,5 @@
+package SwingCodes;
+
 import javax.swing.*;
 public class dr {
 //    menu bars
